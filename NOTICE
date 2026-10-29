@@ -1,0 +1,7 @@
+rlc is an independent external plugin for CoreDNS.
+Copyright 2026 houyuwushang and contributors.
+
+The use case originated in CoreDNS pull request #6459 by Carsten Zeumer
+(@czeumer): https://github.com/coredns/coredns/pull/6459 .
+This implementation is independently maintained and distributed under Apache-2.0.
+CoreDNS and other dependencies retain their own copyright and license notices.

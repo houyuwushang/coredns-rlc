@@ -1,0 +1,5 @@
+/coredns-rlc
+/coredns-rlc.exe
+/coverage.out
+*.test
+*.test.exe
